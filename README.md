@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Markdown özelllikleri 
 ## ilk  mardown içeriği
 - liste 
-*italik*
+- *italik*
+- **bold**
